@@ -1,6 +1,6 @@
 ﻿using Ejercicio1.Models;
 using Ejercicio1.Models.Excepciones;
-using Ejercicio1.Models.Extension;
+using Ejercicio1_VTV_migracion.Models;
 using System.Runtime.Serialization.Formatters.Binary;
 
 namespace Ejercicio1;

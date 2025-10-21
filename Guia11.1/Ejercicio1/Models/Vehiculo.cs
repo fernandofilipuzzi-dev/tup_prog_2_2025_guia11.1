@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio1.Models.Extension;
+namespace Ejercicio1_VTV_migracion.Models;
 
 public class Vehiculo : IComparable<Vehiculo>
 {
